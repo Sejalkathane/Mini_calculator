@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(rgb(255, 255, 69), rgb(255, 114, 26));
+    background-image: linear-gradient(rgb(255, 255, 158), rgb(255, 175, 125));
 
     height: 880px;
 }
@@ -9,7 +9,7 @@ h1{
     font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    text-shadow: 1px 1px 0.9px rgb(255, 0, 0);
+    text-shadow: 1px 1px 0.9px rgb(245, 239, 239);
     
 }
 
@@ -17,7 +17,7 @@ h1{
    
     max-width: 600px; 
     height: 780px;
-    background-image: linear-gradient(rgb(236, 69, 255), rgb(255, 26, 34));
+    background-image: linear-gradient(rgb(236, 105, 251), rgb(255, 37, 85));
     border-radius: 30px;
     margin: auto;
     box-shadow:  2px 2px 5px 5px rgb(255, 234, 193) , 7px 7px 10px 10px rgb(89, 70, 7);
